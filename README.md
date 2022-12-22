@@ -36,3 +36,12 @@ Court case documents are composed of several functional parts such as Facts, Arg
 
 + <a href="https://github.com/Law-AI/semantic-segmentation"> Identification of Rhetorical Roles of Sentences in Indian Legal Judgments </a> (<a href="https://arxiv.org/pdf/1911.05405.pdf">Bhattacharya et al., 2019</a>)
 + <a href="https://datasets.doctrine.fr/"> The French Court Decision Structure dataset — FCD12K </a>
+
+## Pre-trained Language Models for the Legal Domain
+
+Recently there have been many efforts to pre-train large, transformer-based language models for the legal domain, which have been adapted to many down-stream end tasks with spectacular efficiency.
+
++ <a href="https://huggingface.co/nlpaueb/legal-bert-base-uncased"> LEGAL-BERT: The Muppets straight out of Law School </a> (<a href="https://aclanthology.org/2020.findings-emnlp.261.pdf">Chalkidis et al., 2020</a>)
++ <a href="https://huggingface.co/zlucia/legalbert"> When Does Pretraining Help? Assessing Self-Supervised Learning for Law and the CaseHOLD Dataset of 53,000+ Legal Holdings </a> (<a href="https://arxiv.org/pdf/2104.08671v3.pdf">Zheng et al., 2021</a>)
++ <a href="https://huggingface.co/pile-of-law/legalbert-large-1.7M-1"> Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset </a> (<a href="https://arxiv.org/pdf/2207.00220.pdf">Henderson et al., 2022</a>)
++ <a href="https://huggingface.co/law-ai/InLegalBERT"> Pre-training Transformers on Indian Legal Text </a> (<a href="https://arxiv.org/pdf/2209.06049.pdf">Paul et al., 2022</a>)
