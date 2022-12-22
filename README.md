@@ -51,3 +51,10 @@ Recently there have been many efforts to pre-train large, transformer-based lang
 + <a href="https://huggingface.co/zlucia/legalbert"> When Does Pretraining Help? Assessing Self-Supervised Learning for Law and the CaseHOLD Dataset of 53,000+ Legal Holdings </a> (<a href="https://arxiv.org/pdf/2104.08671v3.pdf">Zheng et al., 2021</a>)
 + <a href="https://huggingface.co/pile-of-law/legalbert-large-1.7M-1"> Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset </a> (<a href="https://arxiv.org/pdf/2207.00220.pdf">Henderson et al., 2022</a>)
 + <a href="https://huggingface.co/law-ai/InLegalBERT"> Pre-training Transformers on Indian Legal Text </a> (<a href="https://arxiv.org/pdf/2209.06049.pdf">Paul et al., 2022</a>)
+
+# Presenters
+
++ **Jack G. Conrad**, *Director of Applied Research and Lead Research Scientist, TR Labs at Thomson Reuters, Minneapolis, MN  USA*
+    + Jack Conrad is Director of Applied Research at Thomson Reuters TR Labs where he  focuses on a broad range of technical application areas involving AI, machine learning and textual data processing.  He also fosters cross-team collaboration and communication in the process of implementing and deploying technology to meet business needs. For over two decades, he has  delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.  Jack has published more than 50 peer reviewed research papers and has eight patents. He is passionate about the power of AI transformation in enterprise environments.
+    Jack is past president of the International Association for Artificial Intelligence and Law (IAAIL.org) and has served on the IAAIL Executive Committee for 8 years. Jack’s areas of expertise include research in the fields of  information retrieval (search), question answering, NLP, machine learning, data mining, and system evaluation. 
+
