@@ -30,3 +30,9 @@ Often considered a sub-task of Legal Judgment Prediction, this task aims to iden
 + <a href="https://github.com/Law-AI/automatic-charge-identification"> Automatic Charge Identification from Facts: A Few Sentence-Level Charge Annotations is All You Need </a> (<a href="https://aclanthology.org/2020.coling-main.88.pdf">Paul et al., 2020</a>)
 + <a href="https://github.com/nlp208/legal_attention"> Charge Prediction with Legal Attention </a> (<a href="https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35">Bao et al., 2019</a>)
 
+## Semantic Segmentation / Rhetorical Role Labeling
+
+Court case documents are composed of several functional parts such as Facts, Arguments, Ruling, etc. which may not be clearly demarcated. This task aims to automate the process of segmenting a court case document into these parts.
+
++ <a href="https://github.com/Law-AI/semantic-segmentation"> Identification of Rhetorical Roles of Sentences in Indian Legal Judgments </a> (<a href="https://arxiv.org/pdf/1911.05405.pdf">Bhattacharya et al., 2019</a>)
++ <a href="https://datasets.doctrine.fr/"> The French Court Decision Structure dataset — FCD12K </a>
