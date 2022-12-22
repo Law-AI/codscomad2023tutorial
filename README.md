@@ -1,5 +1,11 @@
-# Resources for Law-AI
-This repository contains links to different Law-AI resources such as datasets and tools.
+# AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities
+This repository contains all detailed information and resources for this upcoming tutorial at CODS-COMAD 2023, due to be held at IIT Bombay, 3rd January 2023.
+
+# Abstract
+Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) are  transforming the way legal professionals and law firms approach their work. The significant potential for the application of AI to Law, for instance, by creating computational solutions for legal tasks, has intrigued researchers for decades. This appeal has only been amplified with the advent of Deep Learning (DL). In particular, research in AI \& Law can be extremely beneficial in countries like India with an overburdened legal system.
+    
+In this tutorial, we will give an overview of the various aspects of applying AI to legal textual data. 
+We will start with a history of AI \& Law, and then discuss the current state of AI \& Law research including the techniques that have produced the biggest impact. We will also take a deep dive into the software processes required to implement and sustain such AI solutions.
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
