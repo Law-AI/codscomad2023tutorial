@@ -17,6 +17,14 @@ This task aims to identify different entities in legal documents. Entities may b
 + <a href="https://github.com/elenanereiss/Legal-Entity-Recognition"> A Dataset of German Legal Documents for Named Entity Recognition </a> (<a href="https://aclanthology.org/2020.lrec-1.551.pdf">Lietner et al., 2020</a>)
 + <a href="https://github.com/Legal-NLP-EkStep/legal_NER"> Named Entity Recognition in Indian court judgments </a> (<a href="https://arxiv.org/pdf/2211.03442.pdf">Kalamkar et al., 2022</a>)
 
+## Legal Summarization
+
+The task of summarization in the legal domain aims to generate a gist of the entire case document, either in extractive fashion (selecting the most important sentences) or abstractive fashion (similar to summaries written by humans).
+
++ <a href="https://github.com/Law-AI/summarization"> Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation </a> (<a href="https://arxiv.org/pdf/2210.07544.pdf">Bhattacharya et al., 2022</a>)
++ <a href="https://evasharma.github.io/bigpatent/"> BIGPATENT: A Large-Scale Dataset for Abstractive and Coherent Summarization </a> (<a href="https://aclanthology.org/P19-1212.pdf">Sharma et al., 2019</a>)
+
+
 ## Legal Judgment Prediction
 
 Broadly speaking, this task aims to determine the outcomes of court cases. In many settings, this may be composed of several sub-tasks, which are addressed in the forthcoming sections.
