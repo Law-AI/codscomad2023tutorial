@@ -68,6 +68,13 @@ Recently there have been many efforts to pre-train large, transformer-based lang
 + <a href="https://huggingface.co/pile-of-law/legalbert-large-1.7M-1"> Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset </a> (<a href="https://arxiv.org/pdf/2207.00220.pdf">Henderson et al., 2022</a>)
 + <a href="https://huggingface.co/law-ai/InLegalBERT"> Pre-training Transformers on Indian Legal Text </a> (<a href="https://arxiv.org/pdf/2209.06049.pdf">Paul et al., 2022</a>)
 
+## General Resources / Benchmarks
+
+This is a miscellaneous list of other resources.
+
++ <a href="https://github.com/coastalcph/lex-glue"> LexGLUE: A Benchmark Dataset for Legal Language Understanding in English </a> (<a href="https://aclanthology.org/2022.acl-long.297.pdf">Chalkidis et al., 2022</a>)
++ <a href="https://github.com/Liquid-Legal-Institute/Legal-Text-Analytics"> Liquid Legal Institute Repository on Legal Text Analytics </a>
+
 # Presenters
 
 + <a href="https://www.linkedin.com/in/jackgconrad/">**Jack G. Conrad**</a>, *Director of Applied Research and Lead Research Scientist, TR Labs at Thomson Reuters, Minneapolis, MN  USA*
