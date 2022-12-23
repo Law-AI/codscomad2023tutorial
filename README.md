@@ -9,6 +9,7 @@ We will start with a history of AI \& Law, and then discuss the current state of
 
 # Tutorial Outline
 **Part** | **Topic** | **Presenter** | **Duration**
+--- | --- | --- | ---
 1 | A brief history of AI & Law research, important milestones | Jack Conrad | 30 mins
 2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | Saptarshi Ghosh & Shounak Paul | 25 mins
 3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | Shirsha Ray Chaudhuri | 25 mins
