@@ -1,11 +1,18 @@
 # AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities
-This repository contains all detailed information and resources for this upcoming tutorial at CODS-COMAD 2023, due to be held at IIT Bombay, 3rd January 2023.
+This repository contains all detailed information and resources for the tutorial at CODS-COMAD 2023, held at IIT Bombay, 4th January 2023.
 
 # Abstract
 Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) are  transforming the way legal professionals and law firms approach their work. The significant potential for the application of AI to Law, for instance, by creating computational solutions for legal tasks, has intrigued researchers for decades. This appeal has only been amplified with the advent of Deep Learning (DL). In particular, research in AI \& Law can be extremely beneficial in countries like India with an overburdened legal system.
     
 In this tutorial, we will give an overview of the various aspects of applying AI to legal textual data. 
 We will start with a history of AI \& Law, and then discuss the current state of AI \& Law research including the techniques that have produced the biggest impact. We will also take a deep dive into the software processes required to implement and sustain such AI solutions.
+
+# Tutorial Outline
+**Part** | **Topic** | **Presenter** | **Duration**
+1 | A brief history of AI & Law research, important milestones | Jack Conrad | 30 mins
+2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | Saptarshi Ghosh & Shounak Paul | 25 mins
+3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | Shirsha Ray Chaudhuri | 25 mins
+4 | Q&A | All Presenters | 10 mins
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
@@ -62,15 +69,15 @@ Recently there have been many efforts to pre-train large, transformer-based lang
 
 # Presenters
 
-+ **Jack G. Conrad**, *Director of Applied Research and Lead Research Scientist, TR Labs at Thomson Reuters, Minneapolis, MN  USA*
++ <a href="https://www.linkedin.com/in/jackgconrad/">**Jack G. Conrad**</a>, *Director of Applied Research and Lead Research Scientist, TR Labs at Thomson Reuters, Minneapolis, MN  USA*
     + Jack Conrad is Director of Applied Research at Thomson Reuters TR Labs where he  focuses on a broad range of technical application areas involving AI, machine learning and textual data processing.  He also fosters cross-team collaboration and communication in the process of implementing and deploying technology to meet business needs. For over two decades, he has  delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.  Jack has published more than 50 peer reviewed research papers and has eight patents. He is passionate about the power of AI transformation in enterprise environments.
     Jack is past president of the International Association for Artificial Intelligence and Law (IAAIL.org) and has served on the IAAIL Executive Committee for 8 years. Jack’s areas of expertise include research in the fields of  information retrieval (search), question answering, NLP, machine learning, data mining, and system evaluation.
     
-+ **Shirsha Ray Chaudhuri**, *Director of Engineering, TR Labs at Thomson Reuters, Bangalore, Karnataka, India*
++ <a href="https://www.linkedin.com/in/shirsharay/">**Shirsha Ray Chaudhuri**</a>, *Director of Engineering, TR Labs at Thomson Reuters, Bangalore, Karnataka, India*
     + Shirsha Ray Chaudhuri is the Director of Engineering at Thomson Reuters Labs, Bangalore. TR Labs is TR's applied research division, focused on delivering solutions with AI and emerging tech to TR's platforms and products and customer Proof of Concepts (PoCs). TR’s editorial workflows power its best-in-class product like Westlaw. The TR Labs team in Bangalore contributes to leveraging AI in these editorial workflows. Her earlier work includes strategic architecture and prototyping for Daimler's EvoBus team to help route planning software solutions for electric buses, predictive maintenance solutions for Daimler's DTNA service centres, and use of AI for rapid field ops in Daimler's Japan-based FUSO trucks. Besides providing point-in-time solutions for a single use case, she implemented generic modifications of such AI services which could be replicated across geographies and operators.   
 
-+ **Shounak Paul**, *Senior Research Fellow, Deptt. of Computer Science \&, Engineering, IIT Kharagpur, West Bengal, India*
++ <a href="https://sites.google.com/view/shounakpaul95/home">**Shounak Paul**</a>, *Senior Research Fellow, Deptt. of Computer Science \&, Engineering, IIT Kharagpur, West Bengal, India*
     + Shounak Paul is a Senior Research Fellow at the Department of CSE, IIT Kharagpur. His research interests mainly include legal data analytics and applications of NLP in the legal domain. His works on AI & Law for Indian applications have been published in premier conferences and journals such as: semantic segmentation (JURIX 2019, best paper award; AI & Law Journal 2021), charge identification (COLING 2020) and legal statute identification using citation networks (AAAI 2022).
 
-+ **Saptarshi Ghosh**, *Assistant Professor, Deptt. of Computer Science \&, Engineering, IIT Kharagpur, West Bengal, India* 
++ <a href="http://cse.iitkgp.ac.in/~saptarshi">**Saptarshi Ghosh**</a>, *Assistant Professor, Deptt. of Computer Science \&, Engineering, IIT Kharagpur, West Bengal, India* 
     + Saptarshi Ghosh is an Assistant Professor at the Department of CSE, IIT Kharagpur. His research interests include Legal analytics, Social media analytics, and Algorithmic bias and fairness (on which he presently leads a Max Planck Partner Group at IIT Kharagpur). His works on AI \& Law have been published at premier conferences including SIGIR, AAAI, CIKM, ECIR, COLING, and have been awarded at top AI & Law conferences, including the Best Paper Award at the International Conference on Legal Knowledge and Information Systems (JURIX) 2019, and the Best Student Paper Award at the International Conference on Artificial Intelligence and Law (ICAIL) 2021. He is presently the Section Editor on Legal Information Retrieval for the journal Artificial Intelligence and Law, the premier journal in AI & Law. He has been awarded with several prestigious awards, including the Institution of Engineers (India) Young Engineer Award 2017-18 in Computer Engineering discipline. 
