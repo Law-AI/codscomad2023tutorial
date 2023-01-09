@@ -88,3 +88,25 @@ This is a miscellaneous list of other resources.
 
 + <a href="http://cse.iitkgp.ac.in/~saptarshi">**Saptarshi Ghosh**</a>, *Assistant Professor, Deptt. of Computer Science \&, Engineering, IIT Kharagpur, West Bengal, India* 
     + Saptarshi Ghosh is an Assistant Professor at the Department of CSE, IIT Kharagpur. His research interests include Legal analytics, Social media analytics, and Algorithmic bias and fairness (on which he presently leads a Max Planck Partner Group at IIT Kharagpur). His works on AI \& Law have been published at premier conferences including SIGIR, AAAI, CIKM, ECIR, COLING, and have been awarded at top AI & Law conferences, including the Best Paper Award at the International Conference on Legal Knowledge and Information Systems (JURIX) 2019, and the Best Student Paper Award at the International Conference on Artificial Intelligence and Law (ICAIL) 2021. He is presently the Section Editor on Legal Information Retrieval for the journal Artificial Intelligence and Law, the premier journal in AI & Law. He has been awarded with several prestigious awards, including the Institution of Engineers (India) Young Engineer Award 2017-18 in Computer Engineering discipline. 
+
+# Citation
+This tutorial has been published on the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3570991.3571050) as part of the conference proceedings. You can cite our work using:
+```
+@inproceedings{10.1145/3570991.3571050,
+author = {Conrad, Jack and Ray Chaudhuri, Shirsha and Paul, Shounak and Ghosh, Saptarshi},
+title = {AI &amp; Law: Formative Developments, State-of-the-Art Approaches, Challenges &amp; Opportunities},
+year = {2023},
+isbn = {9781450397971},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3570991.3571050},
+doi = {10.1145/3570991.3571050},
+abstract = {Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) are transforming the way legal professionals and law firms approach their work. The significant potential for the application of AI to Law, for instance, by creating computational solutions for legal tasks, has intrigued researchers for decades. This appeal has only been amplified with the advent of Deep Learning (DL). In particular, research in AI &amp; Law can be extremely beneficial in countries like India with an overburdened legal system. In this tutorial, we will give an overview of the various aspects of applying AI to legal textual data. We will start with a history of AI &amp; Law, and then discuss the current state of AI &amp; Law research including the techniques that have produced the biggest impact. We will also take a deep dive into the software processes required to implement and sustain such AI solutions.},
+booktitle = {Proceedings of the 6th Joint International Conference on Data Science &amp; Management of Data (10th ACM IKDD CODS and 28th COMAD)},
+pages = {320–323},
+numpages = {4},
+keywords = {Text Analytics, Legal Analytics, Natural Language Processing, Machine Learning},
+location = {Mumbai, India},
+series = {CODS-COMAD '23}
+}
+```
