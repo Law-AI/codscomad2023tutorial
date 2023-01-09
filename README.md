@@ -10,10 +10,9 @@ We will start with a history of AI \& Law, and then discuss the current state of
 # Tutorial Outline
 **Part** | **Topic** | **Presenter** | **Duration**
 --- | --- | --- | ---
-1 | A brief history of AI & Law research, important milestones | [Jack G. Conrad](https://www.linkedin.com/in/jackgconrad/) | 30 mins
-2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | Saptarshi Ghosh & Shounak Paul | 25 mins
-3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | Shirsha Ray Chaudhuri | 25 mins
-4 | Q&A | All Presenters | 10 mins
+1 | A brief history of AI & Law research, important milestones | [Jack G. Conrad](https://www.linkedin.com/in/jackgconrad/) | [Slides]()
+2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | [Saptarshi Ghosh](http://cse.iitkgp.ac.in/~saptarshi) & [Shounak Paul](https://sites.google.com/view/shounakpaul95/home) | [Slides]()
+3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | [Shirsha Ray Chaudhuri](https://www.linkedin.com/in/shirsharay/) | [Slides]()
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
