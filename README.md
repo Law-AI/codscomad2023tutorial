@@ -10,9 +10,9 @@ We will start with a history of AI \& Law, and then discuss the current state of
 # Tutorial Outline
 **Part** | **Topic** | **Presenter** | **Duration**
 --- | --- | --- | ---
-1 | A brief history of AI & Law research, important milestones | [Jack G. Conrad](https://www.linkedin.com/in/jackgconrad/) | [Slides]()
-2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | [Saptarshi Ghosh](http://cse.iitkgp.ac.in/~saptarshi) & [Shounak Paul](https://sites.google.com/view/shounakpaul95/home) | [Slides]()
-3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | [Shirsha Ray Chaudhuri](https://www.linkedin.com/in/shirsharay/) | [Slides]()
+1 | A brief history of AI & Law research, important milestones | [Jack G. Conrad](https://www.linkedin.com/in/jackgconrad/) | [Slides](https://github.com/Law-AI/codscomad2023tutorial/blob/main/Part1.pdf)
+2 | State-of-the-art AI & Law research, datasets, benchmarks and tools | [Saptarshi Ghosh](http://cse.iitkgp.ac.in/~saptarshi) & [Shounak Paul](https://sites.google.com/view/shounakpaul95/home) | [Slides](https://github.com/Law-AI/codscomad2023tutorial/blob/main/Part2.pdf)
+3 | Challenges and best practices in developing Legal information systems at scale (how to put the AI models into practice and sustain them) | [Shirsha Ray Chaudhuri](https://www.linkedin.com/in/shirsharay/) | [Slides](https://github.com/Law-AI/codscomad2023tutorial/blob/main/Part3.pdf)
 
 # Task-specific Resources
 This section contains resources for different automation tasks in the legal domain
