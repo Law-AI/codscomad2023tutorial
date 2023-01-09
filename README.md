@@ -1,5 +1,5 @@
 # AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities
-This repository contains all detailed information and resources for the tutorial at CODS-COMAD 2023, held at IIT Bombay, 4th January 2023.
+This repository contains all detailed information and resources for [our tutorial](https://dl.acm.org/doi/10.1145/3570991.3571050) at [CODS-COMAD 2023](https://cods-comad.in/), held at [IIT Bombay](https://www.iitb.ac.in/), 4th January 2023.
 
 # Abstract
 Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) are  transforming the way legal professionals and law firms approach their work. The significant potential for the application of AI to Law, for instance, by creating computational solutions for legal tasks, has intrigued researchers for decades. This appeal has only been amplified with the advent of Deep Learning (DL). In particular, research in AI \& Law can be extremely beneficial in countries like India with an overburdened legal system.
