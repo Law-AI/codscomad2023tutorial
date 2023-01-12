@@ -77,7 +77,7 @@ This is a miscellaneous list of other resources.
 # Presenters
 
 + <a href="https://www.linkedin.com/in/jackgconrad/">**Jack G. Conrad**</a>, *Director of Applied Research and Lead Research Scientist, TR Labs at Thomson Reuters, Minneapolis, MN  USA*
-    + Jack Conrad is Director of Applied Research at Thomson Reuters TR Labs where he  focuses on a broad range of technical application areas involving AI, machine learning and textual data processing.  He also fosters cross-team collaboration and communication in the process of implementing and deploying technology to meet business needs. For over two decades, he has  delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.  Jack has published more than 50 peer reviewed research papers and has eight patents. He is passionate about the power of AI transformation in enterprise environments.
+    + Jack G. Conrad is Director of Applied Research at Thomson Reuters TR Labs where he  focuses on a broad range of technical application areas involving AI, machine learning and textual data processing.  He also fosters cross-team collaboration and communication in the process of implementing and deploying technology to meet business needs. For over two decades, he has  delivered critical artifacts and infrastructure for research and business directed projects across a diverse spectrum of domains that have included legal, tax and news.  Jack has published more than 50 peer reviewed research papers and has eight patents. He is passionate about the power of AI transformation in enterprise environments.
     Jack is past president of the International Association for Artificial Intelligence and Law (IAAIL.org) and has served on the IAAIL Executive Committee for 8 years. Jack’s areas of expertise include research in the fields of  information retrieval (search), question answering, NLP, machine learning, data mining, and system evaluation.
     
 + <a href="https://www.linkedin.com/in/shirsharay/">**Shirsha Ray Chaudhuri**</a>, *Director of Engineering, TR Labs at Thomson Reuters, Bangalore, Karnataka, India*
@@ -93,7 +93,7 @@ This is a miscellaneous list of other resources.
 This tutorial has been published on the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3570991.3571050) as part of the conference proceedings. You can cite our work using:
 ```
 @inproceedings{10.1145/3570991.3571050,
-author = {Conrad, Jack and Ray Chaudhuri, Shirsha and Paul, Shounak and Ghosh, Saptarshi},
+author = {Conrad, Jack G. and Ray Chaudhuri, Shirsha and Paul, Shounak and Ghosh, Saptarshi},
 title = {AI & Law: Formative Developments, State-of-the-Art Approaches, Challenges & Opportunities},
 year = {2023},
 isbn = {9781450397971},
